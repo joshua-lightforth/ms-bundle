@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "api-gateway"
+		},
+		{
+			"path": "auth"
+		},
+		{
+			"path": "billing"
+		}
+	],
+	"settings": {}
+}
